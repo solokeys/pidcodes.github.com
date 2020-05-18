@@ -3,14 +3,14 @@ layout: org
 title: SoloKeys
 site: https://solokeys.com
 ---
-Open source security tokens.
+Open source hardware security tokens.
 
 
 ### Licenses
-All our products use permissive licenses:
+All our products are open source:
 
-- Software: dual Apache-2.0/MIT
-- Hardware: dual CERN/CC BY-SA
+- Software: Apache-2.0 OR MIT
+- Hardware: CERN-OHL-S
 - Documentation: CC BY-SA
 
 ### Certifications
@@ -18,3 +18,5 @@ Existing products are OSHWA certified:
 
 - Solo: <https://certification.oshwa.org/us000154.html>
 - Solo Tap: <https://certification.oshwa.org/us000155.html>
+- Somu: <https://certification.oshwa.org/us000168.html>
+- Solo 🐝: TBD
